@@ -1,4 +1,4 @@
-Welcome to the petagres wiki!
+Welcome to the [Petagres](https://github.com/linn0/petagres) Community!
 
 ## What is Petagres?
 Petagres is an advanced relational database management system
