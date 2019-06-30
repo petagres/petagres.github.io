@@ -1,4 +1,4 @@
-Welcome to the [Petagres](https://github.com/linn0/petagres) Community!
+Welcome to the [Petagres](https://github.com/petagres/petagres) Community!
 
 ## What is Petagres?
 Petagres is an advanced relational database management system
@@ -20,7 +20,7 @@ and functions.  This distribution also contains C language bindings.
 2. Delete marking in indexes include: hash, gist, gin, brin
 
 ## Roadmap
-Read the [Roadmap](https://github.com/linn0/petagres/wiki/Petagres-Roadmaps).
+Read the [Roadmap](https://github.com/petagres/petagres/wiki/Petagres-Roadmaps).
 
 ## License
 The Petagres is distributed under the GPL license, version 3. 
