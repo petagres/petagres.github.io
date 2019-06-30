@@ -1,7 +1,7 @@
-Petagres 2019 roadmap
+# Petagres 2019 roadmap
 
-SQL compatibility and system stability
+## SQL compatibility and system stability
 
-Keep SQL compatible to PostgreSQL.
+1. Keep SQL compatible to PostgreSQL.
 
-Make system stable as PostgreSQL.
+2. Make system stable as PostgreSQL.
