@@ -20,7 +20,7 @@ and functions.  This distribution also contains C language bindings.
 2. Delete marking in indexes include: hash, gist, gin, brin
 
 ## Roadmap
-Read the [Roadmap](https://github.com/petagres/petagres/wiki/Petagres-Roadmaps).
+Read the [Roadmap](https://petagres.github.io/roadmap).
 
 ## License
 The Petagres is distributed under the GPL license, version 3. 
