@@ -2,6 +2,6 @@
 
 ## SQL compatibility and system stability
 
-1. Keep SQL compatible to PostgreSQL.
+1. Make system stable as PostgreSQL.
 
-2. Make system stable as PostgreSQL.
+2. A sharding architecture like MongoDB.
