@@ -11,9 +11,10 @@ and functions.  This distribution also contains C language bindings.
 2. Reduce write amplification both by avoiding rewrites of heap pages and by making it possible to do an update that touches indexed columns without updating every index.
 3. Reduce the tuple size by shrinking the tuple header.
 4. Delete marking in indexes: This will allow inplace updates even when index columns are updated and additionally with this we can avoid the need for a dedicated vacuum process to perform retail deletes.
-5. Statement level rollback, a transaction mechanism compatible to oracle and mysql.
+5. Statement level rollback and DDL implicit commit, a transaction mechanism compatible to oracle and mysql.
 6. No vacuum.
 7. No freeze, No transaction id wraparound.
+8. Performance enhancements.
 
 ## Open Issues
 1. More testing is needed for recovery and rollbacks. We will not be surprised if you encounter some issues in that area.
